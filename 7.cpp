@@ -17,7 +17,7 @@ int main()
 	}
 	rez = tan(x)  + Z;
 	cout << "Z = " << Z << endl;
-
+	// Zmina Dla Laboratorki 7
 	system("pause");
 	return 0;
 }
